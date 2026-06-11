@@ -1,0 +1,12 @@
+{
+    "autoloadEnabled": true,
+    "configFile": "configs\\ReaperMR.cfg",
+    "espFontSize": 18.0,
+    "fontApplicationMode": 2,
+    "menuFontSize": 18.0,
+    "selectedConfigIndex": 1,
+    "selectedESPFont": "Impact.ttf (Embedded)",
+    "selectedESPFontIndex": 3,
+    "selectedMenuFont": "Impact.ttf (Embedded)",
+    "selectedMenuFontIndex": 3
+}
